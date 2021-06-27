@@ -21,6 +21,13 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },  
+  "resolutions": {
+    "postcss": "7.0.36",
+    "browserslist": "4.16.5",
+    "glob-parent": "5.1.2",
+    "css-what": "5.0.1",
+    "normalize-url": "4.5.1"
   },
   "eslintConfig": {
     "extends": [
